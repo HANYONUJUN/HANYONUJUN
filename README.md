@@ -1,6 +1,6 @@
 # HANYONGJUN
 
-[![HANYONUJUN GitHub stats](https://github-readme-stats.vercel.app/api?username=peter)]()
+[![HANYONUJUN GitHub stats](https://github-readme-stats.vercel.app/api?username=HANYONUJUN)]()
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksdydwns34)](https://solved.ac/gksdydwns34)
 

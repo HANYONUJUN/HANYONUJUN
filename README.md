@@ -1,7 +1,7 @@
 # HANYONGJUN
 
 
-2023 한국컴퓨터정보학회 하계학술대회 논문 작성
+2023 한국컴퓨터정보학회 하계학술대회 논문 작성<br>
 2023 서울 web 3.0 페스티벌 예선 참가
 
 [![HANYONUJUN GitHub stats](https://github-readme-stats.vercel.app/api?username=HANYONUJUN)]()

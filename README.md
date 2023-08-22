@@ -4,9 +4,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksdydwns34)](https://solved.ac/gksdydwns34)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANYONUJUN&layout=compact)]()
 
--2023 한국컴퓨터정보학회 하계학술대회 논문 작성<br>
--2023 서울 web 3.0 페스티벌 예선 참가 및 수료
-
 # Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)

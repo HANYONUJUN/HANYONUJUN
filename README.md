@@ -5,8 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANYONUJUN&layout=compact)]()
 
 # Skills
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+![Vue](https://img.shields.io/badge/vue-444444?style=for-the-badge&logo=vue)
 
 
 ### Tools

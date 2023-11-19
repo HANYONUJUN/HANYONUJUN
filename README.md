@@ -1,10 +1,9 @@
 # HANYONGJUN
-[![HANYONUJUN GitHub stats](https://github-readme-stats.vercel.app/api?username=HANYONUJUN)]()
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksdydwns34)](https://solved.ac/gksdydwns34)
+[![HANYONUJUN GitHub stats](https://github-readme-stats.vercel.app/api?username=HANYONUJUN)]() <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANYONUJUN&layout=compact)]()
 
 # Skills
-<div align=center>
+<div align=left>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -25,7 +24,7 @@
 <img src="https://img.shields.io/badge/apache maven-c71a36?style=for-the-badge&logo=apache maven&logoColor=white">
 </div>
 
-### Tools
+# Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 

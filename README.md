@@ -22,6 +22,8 @@
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache maven-c71a36?style=for-the-badge&logo=apache maven&logoColor=white">
+<img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+
 </div>
 
 # Tools

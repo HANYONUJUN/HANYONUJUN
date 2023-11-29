@@ -1,6 +1,7 @@
 # HANYONGJUN
-[![HANYONUJUN GitHub stats](https://github-readme-stats.vercel.app/api?username=HANYONUJUN)]() <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANYONUJUN&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HANYONUJUN&layout=compact&theme=tokyonight&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills
 <div align=left>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
